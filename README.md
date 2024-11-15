@@ -11,7 +11,7 @@ Each challege has its own folder in this repo - within the folder there is a wor
 and 12 different datasets. Each of you will complete the challenge using a different dataset. The datasets are numbered 1 - 12 and you can find
 your allocated number in the file student_dataset_allocation_numnbers.txt
 
-### Info
+### Additional Info
 Coursework submission deadline: 4pm, Tuesday 28th January 2025
 
 Total weighting: 
